@@ -1,7 +1,7 @@
 /**
  * 
- * @authors 谢志强 (594613537@qq.com)
- * @date    2016-06-29 19:35:29
+ * @authors 张健伟 (zjwei668@163.com)
+ * @date    2016-11-15 19:35:29
  * @version v0.1
  */
 //the script of img25
